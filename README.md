@@ -1,2 +1,2 @@
-# merge-conflict
+REMOTE
 quelques lignes de texte
